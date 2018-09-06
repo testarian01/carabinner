@@ -2,9 +2,9 @@
 templateKey: about-page
 title: About
 ---
-Carabinnerは趣味の技術ログです。
+趣味の技術ログです。
 
-### 中の人
+### testarian
 
 WEB系のエンジニアです。最近は趣味でkotlinを勉強しています。
 お仕事のご相談は carabineer0602@gmail.com まで。
