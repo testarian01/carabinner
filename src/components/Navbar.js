@@ -12,7 +12,7 @@ const Navbar = () => (
           {/*<figure className="image">
             <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
           </figure>*/}
-          Testarian Tech Log
+          carabinner
         </Link>
       </div>
       <div className="navbar-start">
