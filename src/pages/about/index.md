@@ -4,8 +4,6 @@ title: About
 ---
 趣味のログです。
 
-### carabineer
+デザインエンジニアです。趣味でkotlinを勉強しています。
 
-WEB系のデザインエンジニアです。最近は趣味でkotlinを勉強しています。
-
-お仕事のご相談は carabineer0602@gmail.com まで。
+ご連絡は carabineer0602@gmail.com まで。
